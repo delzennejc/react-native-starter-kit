@@ -1,6 +1,6 @@
 # React Native Starter Kit
 
-This starter kit is designed to get you up and running with React Native as fast as possible.
+This starter kit is designed to get you up and running with a complete React Native project as fast as possible.
 
 ## Table of Contents
 1. [Features](#features)

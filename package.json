@@ -1,0 +1,39 @@
+{
+  "name": "react-native-starter-kit",
+  "version": "0.1.0",
+  "description": "React Native starter kit, get up and running !",
+  "author": "Jean-Claude Pratt-Delzenne <prattjames4@gmail.com> http://http://prattdelzenne.com",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-preset-flow": "^6.23.0",
+    "flow-bin": "^0.45.0",
+    "jest-expo": "^0.4.0",
+    "react-native-scripts": "0.0.29",
+    "react-test-renderer": "16.0.0-alpha.6"
+  },
+  "main": "./node_modules/react-native-scripts/build/bin/crna-entry.js",
+  "scripts": {
+    "start": "react-native-scripts start",
+    "eject": "react-native-scripts eject",
+    "android": "react-native-scripts android",
+    "ios": "react-native-scripts ios",
+    "test": "node node_modules/jest/bin/jest.js --watch"
+  },
+  "jest": {
+    "preset": "jest-expo"
+  },
+  "dependencies": {
+    "@expo/vector-icons": "^4.0.0",
+    "axios": "^0.16.1",
+    "expo": "^16.0.0",
+    "react": "16.0.0-alpha.6",
+    "react-native": "^0.43.4",
+    "react-redux": "^5.0.4",
+    "react-router": "^4.0.0",
+    "react-router-native": "^4.1.1",
+    "redux": "^3.6.0",
+    "redux-saga": "^0.15.0",
+    "reselect": "^3.0.0",
+    "styled-components": "^1.4.6"
+  }
+}

@@ -7,9 +7,6 @@ This starter kit is designed to get you up and running with a complete React Nat
 1. [Requirements](#requirements)
 1. [Getting Started](#getting-started)
 1. [Application Structure](#application-structure)
-1. [Development](#development)
-  1. [Developer Tools](#developer-tools)
-  1. [Routing](#routing)
 
 ## Features
 * [react](https://github.com/facebook/react)

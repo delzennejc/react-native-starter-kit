@@ -13,6 +13,7 @@ This starter kit is designed to get you up and running with a complete React Nat
 * [redux](https://github.com/rackt/redux)
 * [redux-saga](https://github.com/redux-saga/redux-saga)
 * [expo](https://github.com/expo/expo)
+* [react-native-elements](https://react-native-training.github.io/react-native-elements/)
 * [styled-components](https://github.com/styled-components/styled-components)
 * [react-router-native](https://github.com/rackt/react-router)
 * [babel](https://github.com/babel/babel)

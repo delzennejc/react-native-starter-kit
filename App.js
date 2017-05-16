@@ -1,5 +1,5 @@
 //*********** COMMENT THE CODE BELOW TO USE STORYBOOK *************/
-/* import React, { Component } from 'react'
+import React, { Component } from 'react'
 import { NativeRouter } from 'react-router-native';
 import { Provider } from 'react-redux'
 
@@ -22,8 +22,8 @@ export default class App extends Component {
       </Provider>
     );
   }
-}*/
+}
 //*********** UNCOMMENT THE CODE BELOW TO USE STORYBOOK *************/
 
-import Storybook from './storybook'
-export default Storybook
+// import Storybook from './storybook'
+// export default Storybook
